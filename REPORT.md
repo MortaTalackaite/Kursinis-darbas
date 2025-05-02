@@ -28,7 +28,7 @@ The player's objective is to maintain the pets’ well-being by managing their n
 
 ## Analysis
 
-### 4 OOP pillars, their meaning and usage (in code and overall)
+### 4 OOP pillars, their meaning and usage
 
 #### Polymorphism
 
