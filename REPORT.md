@@ -72,3 +72,8 @@ Saves player's name and pet details (uses `with open()` for **auto-closing the f
 #### `load_game(filename="virtual_pet_game.txt")` method
 
 Loads saved data (validates file's existence before reading. Parses each line to reconstruct pets. Handles errors). 
+
+## Results
+
+## Summary
+
