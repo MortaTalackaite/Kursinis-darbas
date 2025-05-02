@@ -293,7 +293,8 @@ def main():
 
             if pet not in pets:
                 pets.append(pet)
-                print(f"\nYou adopted a {pet.__class__.__name__}!")
+                pet_type = pet._pet.__class__.__name__ if isinstance(pet, PetDecorator) else pet.__class__.__name__
+                print(f"\nYou adopted a {pet_type}!")
                 pet.greet()
 
         elif choice == "2":
