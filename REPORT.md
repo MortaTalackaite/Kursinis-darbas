@@ -25,7 +25,7 @@ Upon launch, users interact with a text-based menu to:
 9. Load game
 0. Quit
 
-#### The player's objective is to maintain the pets’ well-being by managing their needs effectively.
+#### The player's objective is to maintain the pet's well-being by managing their needs effectively.
 
 ## Analysis
 
