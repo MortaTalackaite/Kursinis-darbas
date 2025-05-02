@@ -6,3 +6,19 @@ The **Virtual Pet Game** is a console-based simulation in which players adopt an
 1. Ensure Python 3 is installed.
 2. Save the game script as `virtual_pet_game.py`.
 3. Open a terminal and run: `python virtual_pet_game.py`.
+### How to play?
+Upon launch, users interact with a text-based menu to:
+1. Adopt a pet
+2. Feed a pet
+3. Play with a pet
+4. Check on pets
+5. Give a toy to a pet
+6. Show pet's toys
+7. Show my pets
+8. Save game
+9. Load game
+0. Quit
+The player's objective is to maintain the pets’ well-being by managing their needs effectively.
+## Analysis
+1. 4 OOP pillars, their meaning and usage (in code and overall)
+   Polymorphism: The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class
