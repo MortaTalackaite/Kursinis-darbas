@@ -99,4 +99,14 @@ Help to maintain a "clean" code.
 
 ### Achievements
 
+1. Clean and scalable code.
+2. Core gameplay.
+3. Foundation for future upgrades/extensions.
+
 ### Future prospects
+
+1. More types of pets and their traits.
+2. Pet interactions.
+3. Deeper simulation (e.g. environmental impact on pets).
+4. Added graphics.
+5. Enhanced save/load system.
