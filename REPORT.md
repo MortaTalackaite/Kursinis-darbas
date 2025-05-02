@@ -88,9 +88,11 @@ Loads saved data (validates file's existence before reading. Parses each line to
 
 #### Game progress can be saved to/loaded from a text file.
 
-### Neccesssary OOP principles were implemented in the code.
+### Neccesssary OOP principles
 
-### Factory Method and Decorator design patterns that were used help to maintain a "clean" code.
+### Factory Method and Decorator design patterns
+
+Help to maintain a "clean" code.
 
 ## Summary
 
