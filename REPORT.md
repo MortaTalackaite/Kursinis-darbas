@@ -39,9 +39,9 @@ The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class 
 
 The `VirtualPet(ABC)` abstract base class (defines the common interface for all pets without providing complete implementation. Forces subclasses to implement `speak()` making it abstract. Hides internal state (hunger, boredom) behind property decorators. Provides default implementations for shared behaviors such as `feed()`, `play()`, etc.).
 
-#### InheritanceThe 
+#### Inheritance
 
-`VirtualPet(ABC)` class is an **abstract base class (parent class)** that defines the common structure and behavior for all pets (defines common attributes (`name`, `hunger`, `boredom`, `toys`). Provides default implementations (`feed()`, `play()`). Forces subclasses to implement `speak()` (using `@abstractmethod`)).
+The `VirtualPet(ABC)` class is an **abstract base class (parent class)** that defines the common structure and behavior for all pets (defines common attributes (`name`, `hunger`, `boredom`, `toys`). Provides default implementations (`feed()`, `play()`). Forces subclasses to implement `speak()` (using `@abstractmethod`)).
 
 #### Encapsulation
 
