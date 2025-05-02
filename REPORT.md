@@ -5,4 +5,5 @@ The **Virtual Pet Game** is a console-based simulation in which players adopt an
 ### How to run the game?
 1. Ensure Python 3 is installed.
 2. Save the game script as virtual_pet_game.py.
-3. Open a terminal and run: ```bash python virtual_pet_game.py
+3. Open a terminal and run:
+```bash python virtual_pet_game.py
