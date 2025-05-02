@@ -87,7 +87,7 @@ Loads saved data (validates file's existence before reading. Parses each line to
 ### Neccesssary OOP principles
 
 1. **Encapsulation** keeps attributes private.
-2. **Inheritance** core code logic is shared to subclasses.
+2. **Inheritance** allows core logic to be shared with subclasses.
 3. **Polymorphism** allows method overriding.
 4. **Abstraction** hides complexity.
 
