@@ -22,3 +22,4 @@ The player's objective is to maintain the pets’ well-being by managing their n
 ## Analysis
 ### 4 OOP pillars, their meaning and usage (in code and overall)
 1. Polymorphism: The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class (each concrete pet class provides its own implementation of `speak()`. When `greet()` calls `speak()`, the appropriate version is called based on the actual object's type).
+2. Abstraction: The `VirtualPet(ABC)` abstract base class (defines the common interface for all pets without providing complete implementation. Forces subclasses to implement 'speak()' making it abstract. Hides internal state (hunger, boredom) behind property decorators. Provides default implementations for shared behaviors such as `feed()`, `play()`, etc.).
