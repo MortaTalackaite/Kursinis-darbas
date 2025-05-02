@@ -17,8 +17,7 @@ Upon launch, users interact with a text-based menu to:
 7. Show my pets
 8. Save game
 9. Load game
-0. Quit
-
+'0'. Quit
 The player's objective is to maintain the pets’ well-being by managing their needs effectively.
 ## Analysis
 ### 4 OOP pillars, their meaning and usage (in code and overall)
