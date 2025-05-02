@@ -4,7 +4,7 @@
 
 ### What is Virtual Pet Game?
 
-The **Virtual Pet Game** is a console-based simulation in which players adopt and care for digital pets with unique personalities and needs. Each pet has parameters like hunger and boredom, and players must manage these through interactions such as feeding, playing, and giving toys. The application is written in Python and demonstrates key Object-Oriented Programming (OOP) concepts and design patterns to create a modular and extensible codebase.
+The **Virtual Pet Game** is a console-based simulation in which players adopt and care for digital pets with unique personalities and needs. Each pet has its own needs  (hunger and boredom). Players must manage pet's needs through interactions such as feeding, playing, and giving toys. The application is written in Python and demonstrates key Object-Oriented Programming (OOP) concepts and design patterns to create a modular and extensible code.
 
 ### How to run the game?
 1. Ensure Python 3 is installed.
@@ -75,6 +75,18 @@ Saves player's name and pet details (uses `with open()` for **auto-closing the f
 Loads saved data (validates file's existence before reading. Parses each line to reconstruct pets. Handles errors). 
 
 ## Results
+
+### Game Works as Intended
+
+#### Players can adopt pets, manage their needs by feeding, playing or giving toys to their pets.
+
+#### Pet's hunger and boredom levels change over time.
+
+#### Pets are created randomly.
+
+#### Some pets get enhanced attributes.
+
+
 
 ## Summary
 
