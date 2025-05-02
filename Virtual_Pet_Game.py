@@ -180,6 +180,7 @@ class PetFactory:
         
         if random.random() < 0.3:
             return PetDecorator(base_pet)
+            
         return base_pet
 
 
@@ -197,6 +198,7 @@ def save_game(player, pets, filename = "virtual_pet_game.txt"):
 
         print(f"Game saved successfully to {filename}!")
         return True
+        
     except Exception as e:
         print(f"Error saving game: {e}")
         return False
@@ -253,6 +255,7 @@ def load_game(filename = "virtual_pet_game.txt"):
                 player._Owner__pets = pets
                 print("Game loaded successfully!")
                 return player, pets
+                
             else:
                 print("Save file is incomplete")
                 return None, []
@@ -434,5 +437,5 @@ def main():
         for pet in pets:
             pet.changes()
 
-if __name__ == '__main__':
-    main()
+
+main()
