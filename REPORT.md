@@ -33,9 +33,7 @@ Upon launch, users interact with a text-based menu to:
 
 #### Polymorphism
 
-##### The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class
-
-Each concrete pet class provides its own implementation of `speak()`. When `greet()` calls `speak()`, the appropriate version is called based on the actual object's type.
+The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class (each concrete pet class provides its own implementation of `speak()`. When `greet()` calls `speak()`, the appropriate version is called based on the actual object's type).
 
 #### Abstraction
 
