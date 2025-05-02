@@ -21,4 +21,4 @@ Upon launch, users interact with a text-based menu to:
 The player's objective is to maintain the pets’ well-being by managing their needs effectively.
 ## Analysis
 1. 4 OOP pillars, their meaning and usage (in code and overall)
-   Polymorphism: The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class
+Polymorphism: The most obvious example is the `speak()` method in the `VirtualPet(ABC)` class
