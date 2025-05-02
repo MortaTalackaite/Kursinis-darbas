@@ -60,7 +60,7 @@ Private attributes (attributes are marked as **private** using double underscore
 ### Aggregation
 
 1. **Owner aggregates pets** (pets can exist without an owner).
-2. **Game aggregates pets and toys** (they can be reused/reassigned)
+2. **Game aggregates pets and toys** (they can be reused/reassigned).
 
 ### Reading from file & writing to file
 
