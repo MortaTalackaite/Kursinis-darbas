@@ -78,15 +78,11 @@ Loads saved data (validates file's existence before reading. Parses each line to
 
 ### Game Works as Intended
 
-#### Players can adopt pets, manage their needs by feeding, playing or giving toys to their pets.
-
-#### Pet's hunger and boredom levels change over time.
-
-#### Pets are created randomly.
-
-#### Some pets get enhanced attributes.
-
-#### Game progress can be saved to/loaded from a text file.
+1. Players can adopt pets, manage their needs by feeding, playing or giving toys to their pets.
+2. Pet's hunger and boredom levels change over time.
+3. Pets are created randomly.
+4. Some pets get enhanced attributes.
+5. Game progress can be saved to/loaded from a text file.
 
 ### Neccesssary OOP principles
 
